@@ -1,0 +1,4 @@
+{
+    "HttpPort": "3000",
+    "WebSocketPort": "4000"
+}
