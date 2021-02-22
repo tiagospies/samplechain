@@ -27,8 +27,8 @@ class BlockchainHandler {
     /** Gera o bloco de genesis, que é o primeiro bloco da aplicação. */
     getGenesisBlock() {
         let dataFromFirstBlock = {
-            from: "Cwi Software",
-            to: "Cwi Software",
+            from: "Empresa",
+            to: "Empresa",
             value: 1000000
         };
         
